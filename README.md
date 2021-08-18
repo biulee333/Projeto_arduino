@@ -4,5 +4,5 @@
     Toda documentação e fluxogramas do projeto estão disponíveis aqui neste diretório do GitHub.
     Link do video mostrando o funcionamento final do projeto: https://youtu.be/shxrr-0USQU
     
-    [Artigo_Científico_lampada_de_palmas.pdf](https://github.com/biulee333/Projeto_arduino/files/7004464/Artigo_Cientifico_lampada_de_palmas.pdf)
+  
 
